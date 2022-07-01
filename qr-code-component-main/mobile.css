@@ -12,6 +12,7 @@ html{
 body{
     background-color: var(--Light-gray);
     padding: 2rem;
+    align-items:center ;
 }
 
 .container{
@@ -46,8 +47,15 @@ body{
     text-align: center;
     margin: 1.5rem 2rem;
 }
-.attribution{
+.attribution a{
     margin: 1rem auto;
+    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    color: var(--Dark-blue);
+    text-align: center;
+
 }
+
 
 
