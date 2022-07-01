@@ -17,7 +17,7 @@ body{
 
 .container{
     margin-top: 8rem;
-    height: 75vh;
+    height: 75%;
     display: flex;
     flex-direction: column;
     border-radius: 2rem;
@@ -45,7 +45,7 @@ body{
     color: var(--Grayish-blue);
     font-size: 1.7rem;
     text-align: center;
-    margin: 1.5rem 2rem;
+    margin: 1.5rem 2rem  3rem;
 }
 .attribution a{
     margin: 1rem auto;
@@ -54,7 +54,6 @@ body{
     font-weight: bold;
     color: var(--Dark-blue);
     text-align: center;
-
 }
 
 
